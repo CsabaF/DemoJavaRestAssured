@@ -1,0 +1,10 @@
+[
+  {
+    "action": "write",
+    "role": "ROLE_ADMIN"
+  },
+  {
+    "action": "read",
+    "role": "ROLE_USER"
+  }
+]

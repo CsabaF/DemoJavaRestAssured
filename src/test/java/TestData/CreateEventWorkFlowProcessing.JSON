@@ -1,0 +1,10 @@
+{
+  "workflow": "ng-schedule-and-upload",
+  "configuration": {
+    "flagForCutting": "false",
+    "flagForReview": "false",
+    "publishToEngage": "true",
+    "publishToHarvesting": "true",
+    "straightToPublishing": "true"
+  }
+}
